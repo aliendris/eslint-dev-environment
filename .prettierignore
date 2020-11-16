@@ -1,0 +1,6 @@
+# Ignore artifacts:
+build
+coverage
+.md
+
+# Reference https://prettier.io/docs/en/ignore.html
